@@ -33,7 +33,14 @@
 		mithun@linux:~$ java -version
 		# source command to load file again to reflect changes        
         
-        
+#### set java path in bashrc 
+
+		home> sudo nano ~/.bashrc
+		 
+		export JAVA_HOME=/opt/jdk-11/
+		export PATH="$HOME/bin:$HOME/.local/bin:$PATH:$JAVA_HOME/bin"
+
+
         
 ##### set java path for eclipse
         open eclipse.ini file
