@@ -1,3 +1,8 @@
+#### installing oracle jdk 11
+
+		https://linuxhint.com/install_oracle_jdk11_ubuntu/
+		
+		
 ##### installing openjdk 11
         download tar file
         extract to opt folder
