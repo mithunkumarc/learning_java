@@ -1,5 +1,4 @@
-spring tool suite 4
-
-java 11
-
-spring boot 2.2.0
+requisites 
+* spring tool suite 4
+* java 11
+* spring boot 2.2.0
