@@ -15,3 +15,8 @@ springbootapp main() : base package :
           com.example.controller
           com.example.config
           com.example.view
+
+
+examples :
+
+        https://howtodoinjava.com/wp-content/downloads/
