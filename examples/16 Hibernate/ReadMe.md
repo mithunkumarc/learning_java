@@ -23,4 +23,5 @@ application.properties
           spring.jpa.hibernate.ddl-auto = update
 
 
-
+source : 
+            https://www.javaguides.net/2018/09/spring-boot-2-hibernate-5-mysql-crud-rest-api-tutorial.html
