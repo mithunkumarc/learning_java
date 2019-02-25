@@ -4,6 +4,9 @@ requisites
 * spring boot 2.2.0
 
 
+devtools dependency : used for hotreload : sometimes better to restart
+
+
 project structure  : 
 
 springbootapp main() : base package : 
