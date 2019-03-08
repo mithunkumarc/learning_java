@@ -23,11 +23,14 @@ public class SimpleFilter extends ZuulFilter {
 
   @Override
   public boolean shouldFilter() {
+    //true : calls run method
+    //false : skips run method
     return true;
   }
 
   @Override
   public Object run() {
+    //filter logic
     RequestContext ctx = RequestContext.getCurrentContext();
     HttpServletRequest request = ctx.getRequest();
 
