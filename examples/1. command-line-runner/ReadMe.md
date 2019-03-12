@@ -1,7 +1,10 @@
+
 ### if command line runner and application runner has both order(1), then application runner runs first
 
 ### command line runner without order runs at the end of those which has order, same for app runner
 
+
+#### SpringApplication.run() returns context, context.getBeans() returns all dependency objects created.
 
 
 ### multiple command line runners with priority using @Order(n), without @Order will run last
