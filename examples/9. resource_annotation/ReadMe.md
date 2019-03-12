@@ -1,7 +1,11 @@
+#### autowired cannot resolve dependencies of same type.
+
+#### autowired annotation can be replaced by resource annotation using name mentioned using @component("resource_name")
+
 /*
 
-  Both @Autowired (or @Inject) and @Resource work equally well. 
-  But there is a conceptual difference or a difference in the meaning
+	Both @Autowired (or @Inject) and @Resource work equally well. 
+	But there is a conceptual difference or a difference in the meaning
 
     @Resource means get me a known resource by name. 
     The name is extracted from the name of the annotated setter or field, or it is taken from the name-Parameter.
