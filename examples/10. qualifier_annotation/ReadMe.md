@@ -1,3 +1,16 @@
+#### resource : resolve same dependencies by name
+#### qualifier : helps autowired to resolve dependencies of same type using name
+
+        //autowired cannot resolve incase of same type of dependencies available
+	//qualifier is used with autowired
+	
+        @Autowired
+	@Qualifier("hdfc")//or @Qualifier("icici")
+	public void setBankAccount(BankAccount bankAccount) {
+		this.bankAccount = bankAccount;
+	}
+
+
 Qualifier annotation
 
         picking particular dependency from group of beans belong to similar type.
