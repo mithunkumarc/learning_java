@@ -1,3 +1,4 @@
+#### spring container giver new object every time when we request a bean/dependency
 
         When defining a <bean> you have the option of declaring a scope for that bean. 
         For example, to force Spring to produce a new bean instance each time one is needed, 
