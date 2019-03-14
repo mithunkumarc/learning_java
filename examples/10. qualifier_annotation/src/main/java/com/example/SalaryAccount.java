@@ -11,7 +11,7 @@ public class SalaryAccount {
 	
 	//qualifer can be replaced by @primary
 	//remove @qualifer mark either hdfc or icici as @primary to solve dependency conflict	
-	
+	//remove @qualifer on component as well as dependencies
 	
 	@Autowired
 	@Qualifier("hdfc")//or @Qualifier("icici")
