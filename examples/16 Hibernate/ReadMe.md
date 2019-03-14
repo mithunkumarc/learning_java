@@ -25,3 +25,18 @@ application.properties
 
 source : 
             https://www.javaguides.net/2018/09/spring-boot-2-hibernate-5-mysql-crud-rest-api-tutorial.html
+
+
+
+
+#### hibernate ddl operations
+
+                validate: validate that the schema matches, make no changes to the schema of the database, 
+                you probably want this for production.
+
+                update: update the schema to reflect the entities being persisted
+
+                create: creates the schema necessary for your entities, destroying any previous data.
+
+                create-drop: create the schema as in create above, but also drop the schema at the end of the session. 
+                This is great in early development or for testing.
