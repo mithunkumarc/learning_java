@@ -8,6 +8,11 @@ import org.springframework.stereotype.Component;
 public class SalaryAccount {
 	BankAccount bankAccount;
 	
+	
+	//qualifer can be replaced by @primary
+	//remove @qualifer mark either hdfc or icici as @primary to solve dependency conflict	
+	
+	
 	@Autowired
 	@Qualifier("hdfc")//or @Qualifier("icici")
 	public void setBankAccount(BankAccount bankAccount) {
