@@ -1,0 +1,4 @@
+#### project dependencies : 
+
+        jpa
+        mysql
