@@ -15,7 +15,7 @@ public class BookCategory {
     private String name;
 
     @OneToMany(mappedBy = "bookCategory", cascade = CascadeType.ALL)
-    private Set<Book> books;
+    private Set<Book> books; //override hashcode and equals for books to avoid duplicate books
 
     public BookCategory(String name, Book... books) {
         this.name = name;
