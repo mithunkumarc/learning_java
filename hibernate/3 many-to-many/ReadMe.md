@@ -1,6 +1,10 @@
-#### mysqla and jpa
 
 #### many to many
+
+project dependencies
+
+           mysqla and jpa
+
 
 
 book : 
