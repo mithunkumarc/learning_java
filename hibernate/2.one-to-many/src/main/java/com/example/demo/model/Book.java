@@ -9,6 +9,9 @@ import javax.persistence.ManyToOne;
 
 @Entity
 public class Book {
+	
+    //override hashcode and equals for books to avoid duplicate books	
+	
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
@@ -46,9 +49,5 @@ public class Book {
 	public void setBookCategory(BookCategory bookCategory) {
 		this.bookCategory = bookCategory;
 	}
-    
-    
-    
-    
     
 }
