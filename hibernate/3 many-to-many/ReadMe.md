@@ -32,6 +32,10 @@ book_publisher
 
 #### Transactional : considering more than one transaction as one
 
+> by default jparepository handles transaction for individual crud operation
+  for multiple transaction/crud use @Transactional to consider multiple crud as one operation
+           
+
            below example stores book items to database along with publisher
            two individual save info considered as one.
 
@@ -47,7 +51,7 @@ book_publisher
                                  var book1 = new Book("Book 1", publisher_a , publisher_b);           
            
 
-
+                                 //first save
                                  bookRepository.save(book1);
 
                                  // dont reuse publisher_a and publisher_b , 
