@@ -42,3 +42,7 @@
       consumer also subscribed to same topic , it will receive message 
       
       
+#### reference : 
+
+       https://medium.com/oril/spring-boot-with-apache-kafka-2b1ecb88a63f
+       https://github.com/igorkosandyak/spring-boot-kafka
