@@ -46,6 +46,8 @@ public class SimpleProducer {
     //The buffer.memory controls the total amount of memory available to the producer for buffering.   
     props.put("buffer.memory", 33554432);
     
+  
+    //kafka transfer data in the form of streams of bytes, so use serializer
     props.put("key.serializer", 
        "org.apache.kafka.common.serialization.StringSerializer");
        
