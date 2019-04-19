@@ -48,3 +48,11 @@
               offset = 37, key = 7, value = 7
               offset = 38, key = 8, value = 8
               offset = 39, key = 9, value = 9
+
+
+---
+spring boot kafka
+
+https://www.javainuse.com/spring/spring-boot-apache-kafka-hello-world
+
+https://github.com/thepracticaldeveloper/kafka-spring-boot-example
