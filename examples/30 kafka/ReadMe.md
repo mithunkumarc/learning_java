@@ -25,6 +25,8 @@
 
         http://localhost:9000/kafka/publish?message=test
         
+        //send any message, message=anymessage
+        
         or goto terminal 
         
         curl -X POST -F 'message=test' http://localhost:9000/kafka/publish
