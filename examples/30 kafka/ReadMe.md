@@ -48,3 +48,4 @@
 
        https://medium.com/oril/spring-boot-with-apache-kafka-2b1ecb88a63f
        https://github.com/igorkosandyak/spring-boot-kafka
+       https://www.confluent.io/blog/apache-kafka-spring-boot-application
