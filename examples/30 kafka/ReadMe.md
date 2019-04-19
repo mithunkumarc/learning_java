@@ -1,3 +1,5 @@
+kafka is like jms messaging library
+
 #### 1. download kafka libray : 
 
         https://kafka.apache.org/quickstart
