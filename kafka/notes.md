@@ -193,7 +193,7 @@
                                       
           producer : 
                   topic : 
-                      messages : (diviede to partition)
+                      messages : (each message divide to partition : load balancing)
                               kafka broker 1 
                                         partion 1 
                                         partion 2 
@@ -201,7 +201,8 @@
 
                               kafka broker 2
                                         partion 1 (replica)      
-
+                                        p2 replica
+                                        p3 replica
 
                                         consumer group 
                                               reads partition 1,2,3 
