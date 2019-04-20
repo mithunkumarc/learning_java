@@ -204,10 +204,10 @@
                                         p2 replica
                                         p3 replica
 
-                                        consumer group 
+                                        consumer group (any number of consumer group with same name) per app/project
                                               reads partition 1,2,3 
 
-                                                      consumer reads data from consumer group
+                                                      consumer reads data from consumer group (group id/name ) imp
                                                               each consumer group carry messages of particular topic/application
 
 
