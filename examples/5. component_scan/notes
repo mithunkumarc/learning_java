@@ -1,4 +1,9 @@
+
 The @Controller, @Service and @Repository annotations similar(all are beans) to @Component with different purpose.
+
+above all autodectected by spring including @configuration
+
+
 
 @Service : service classes
 @Repository : Dao classes
