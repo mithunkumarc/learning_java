@@ -1,4 +1,5 @@
 package com.example.demo.repository;
+import java.util.stream.Collectors;
 
 import org.springframework.stereotype.Repository;
 
@@ -26,4 +27,12 @@ public class EmployeeDao
     public void addEmployee(Employee employee) {
         list.getEmployeeList().add(employee);
     }
+    
+    
+    public Employee getEmployee(int id) {
+    	var empList = list.getEmployeeList().stream()
+    	.filter(emp -> emp.getId() == id).collect(Collectors.toList());
+    	return empList.get(0);
+    }
+    
 }
