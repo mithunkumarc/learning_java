@@ -30,6 +30,36 @@ book_publisher
         '2', '2'
 
 
+
+#### Trasactional
+
+              @Transactional
+               public void addTournamentsAndPlayers() {
+
+                   Tournament t1 = new Tournament();
+                   t1.setName("Wimbledon");
+                   Tournament t2 = new Tournament();
+                   t2.setName("Roland Garros");
+
+                   Player p1 = new Player();
+                   p1.setName("Roger Federer");
+                   Player p2 = new Player();
+                   p2.setName("Rafael Nadal");
+                   Player p3 = new Player();
+                   p3.setName("David Ferer");
+
+                   t1.addPlayer(p1);
+                   t1.addPlayer(p2);
+                   t2.addPlayer(p1);
+                   t2.addPlayer(p2);
+                   t2.addPlayer(p3);
+
+                   tournamentRepository.save(t1);
+                   tournamentRepository.save(t2);
+           }
+
+
+
 #### Transactional : considering more than one transaction as one
 
 > by default jparepository handles transaction for individual crud operation
