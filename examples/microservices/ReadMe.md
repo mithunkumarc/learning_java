@@ -6,3 +6,7 @@ install and set maven path
         workspace/spring-bot-services/sprng-boot-services> java -jar target/spring-boot-microservices-0.0.1-SNAPSHOT.jar addition
         workspace/spring-bot-services/sprng-boot-services> java -jar target/spring-boot-microservices-0.0.1-SNAPSHOT.jar subtraction
         workspace/spring-bot-services/sprng-boot-services> java -jar target/spring-boot-microservices-0.0.1-SNAPSHOT.jar web
+
+
+link : 
+        https://examples.javacodegeeks.com/spring-boot-microservices-example/
