@@ -10,3 +10,6 @@ install and set maven path
 
 link : 
         https://examples.javacodegeeks.com/spring-boot-microservices-example/
+
+
+java 11 used in this example , refer pom.xml for supporting dependencies
