@@ -57,3 +57,9 @@
         
         
 > source video : https://www.youtube.com/watch?v=TaIzZU28xVs
+
+
+
+#### concurrency vs parallelism
+	concurrency : shared data bw threads : synchronisation
+	parallelism : no shared data bw threads : sync not required
