@@ -1,5 +1,11 @@
 package test;
 
+// race condition
+/*
+When two or more threads are trying to access a variable and one of them wants to modify it, you get a
+problem known as a race condition (also known as data race or race hazard). 
+*/
+
 class Counter { 
 	public static int count = 0;
 }
