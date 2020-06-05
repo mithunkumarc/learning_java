@@ -1,3 +1,7 @@
+#### some examples are in java 8 
+
+	1.kafka-example
+
 #### installing oracle jdk 11
 
 		https://linuxhint.com/install_oracle_jdk11_ubuntu/
