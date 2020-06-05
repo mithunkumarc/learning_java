@@ -23,5 +23,5 @@
 #### github project springboot : before you run spring boot project, run zookeper and kafka server
 
           https://github.com/eugenp/tutorials/tree/master/spring-kafka/src/main
-          
+          dependencies : kafka and fasterxml jackson : check pom
           
