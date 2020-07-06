@@ -1,5 +1,6 @@
 todo  
 	https://javarevisited.blogspot.com/2018/07/top-9-java-programming-books-best-must-read.html
+	https://www.stackchief.com/
 
 #### some examples are in java 8 
 
