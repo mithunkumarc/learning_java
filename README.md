@@ -73,3 +73,7 @@ todo
 #### concurrency vs parallelism
 	concurrency : shared data bw threads : synchronisation
 	parallelism : no shared data bw threads : sync not required
+	
+#### tutorials
+
+	https://www.javainuse.com/spring/sprboot
