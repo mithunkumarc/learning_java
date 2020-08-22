@@ -20,7 +20,7 @@ class Person {
 
 public class TestMethodReference {
 	public static void main(String[] args) {	
-		List<String> list = new ArrayList<String>(); 
+	List<String> list = new ArrayList<String>(); 
         list.add("rajat"); 
         list.add("prakash"); 
         list.add("abhinith");      
