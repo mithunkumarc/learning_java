@@ -1,4 +1,14 @@
-server can send you response either in xml or json. Add http header : Accept : Application/xml or Application/json : use postman
+server can send you response either in xml or json. Add http header : Accept : Application/xml or Application/json : use postman  
+also request data can be sent as xml or json. : use httpheader : contentType : xml/json  
+
+
+import dependency to make server to support content negotiation : 
+
+            <dependency>
+              <groupId>com.fasterxml.jackson.dataformat</groupId>
+              <artifactId>jackson-dataformat-xml</artifactId>
+            </dependency>
+
 
 dependencies : 
 
