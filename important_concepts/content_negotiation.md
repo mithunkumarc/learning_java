@@ -4,6 +4,7 @@ also request data can be sent as xml or json. : use httpheader : contentType : x
 
 import dependency to make server to support content negotiation : 
 
+            <!-- to disable xml support remove this dependency as browsser gives preference to xml first -->
             <dependency>
               <groupId>com.fasterxml.jackson.dataformat</groupId>
               <artifactId>jackson-dataformat-xml</artifactId>
