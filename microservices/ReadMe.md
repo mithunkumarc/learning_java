@@ -25,3 +25,5 @@ zuul api gateway : common services like authentication, autorization, : intercep
 
 sleuth : tract request accross different microservices using id, if there is no id, its difficult to debug using logs  
 we cant know which request belong to which logs  
+
+learn : https://www.appsdeveloperblog.com/microservices-and-spring-cloud-tutorials-for-beginners/
