@@ -78,3 +78,7 @@ todo
 
 	https://www.javainuse.com/spring/sprboot
 	
+#### watch
+
+	https://blogs.oracle.com/javamagazine/
+	
