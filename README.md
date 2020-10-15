@@ -77,8 +77,10 @@ todo
 #### tutorials
 
 	https://www.javainuse.com/spring/sprboot
+	https://bezkoder.com/
 	
 #### watch
 
 	https://blogs.oracle.com/javamagazine/
+	https://bezkoder.com/
 	
