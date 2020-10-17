@@ -9,7 +9,8 @@
 
 ##### float vs double
 
-        The precision of float is only six or seven decimal digits, while double variables have a precision of about 15 digits. 
+        The precision of float is only six or seven decimal digits, 
+        while double variables have a precision of about 15(12 or 13) digits. 
         Therefore it is safer to use double for most calculations.
   
         float f = 342.234555555f; // output : 342.23456
@@ -19,6 +20,7 @@
 
 Java has no sizeof operator to find the size of primitive data types. 
 So use Wrapper class Constants SIZE(in bits so divide by 8) OR BYTES
+Note : Boolean has not constants SIZE OR BYTES.(its size is 1bit)
 
         <WrapperClassName.SIZE>/8
         Character.SIZE/8
@@ -29,6 +31,9 @@ So use Wrapper class Constants SIZE(in bits so divide by 8) OR BYTES
         Character.Bytes
 
   
+ 
+ size of primitive types is always fixed not platform dependent.  
+ all primitive data types in Java are signed. Java does not support unsigned types.  
 
 
 
