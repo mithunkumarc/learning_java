@@ -66,5 +66,43 @@
 6. Assignment Operators
 
 
-https://cs-fundamentals.com/java-programming/java-assignment-operators
+        Basic Assignment Operator ( = )
+
+        Reference Assignment
+                Student st1 = new Student();
+        
+        Primitive Assignment
+        
+                int x = 130; // literal assignment
+                int y = x + 2; // assignment with expression
+                
+        Primitive Casting
+        
+                int i = 5;		 
+		byte c = 3;
+		c = (byte) (i + 7); //carefull overflow could happen
+		System.out.println(c); // 12
+        
+        
+        Shorthand Assignment Operators
+
+                int x = 3;
+		x += 5; // 8
+
+                      
+
 7. Miscellaneous Operators
+
+                ternary or conditional operator
+
+                        expr-1 ? expr-2 : expr-3;
+
+                member access operator(dot .)
+
+                                person.currentAddress
+
+                comma opearatr used between function arguments
+
+                new operator
+
+                instanceOf operator
