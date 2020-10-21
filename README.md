@@ -78,9 +78,11 @@ todo
 
 	https://www.javainuse.com/spring/sprboot
 	https://bezkoder.com/
+	https://github.com/javadevjournal/javadevjournal
 	
 #### watch
 
 	https://blogs.oracle.com/javamagazine/
 	https://bezkoder.com/
+	https://github.com/javadevjournal/javadevjournal
 	
