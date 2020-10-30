@@ -79,6 +79,7 @@ todo
 	https://www.javainuse.com/spring/sprboot
 	https://bezkoder.com/
 	https://github.com/javadevjournal/javadevjournal
+	https://github.com/roytuts/spring-boot
 	
 #### watch
 
