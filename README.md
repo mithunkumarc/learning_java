@@ -87,3 +87,18 @@ todo
 	https://bezkoder.com/
 	https://github.com/javadevjournal/javadevjournal
 	
+
+
+#### to learn
+
+		 Multithreading concepts to learn.
+		-> Runnable, Callable
+		-> Futures
+		-> Join
+		-> Locks
+		-> Race conditions
+		-> Deadlock
+		-> thread dumps
+		-> Concurrency utilities
+		-> volatile
+		-> Java memory model
