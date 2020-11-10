@@ -1,3 +1,10 @@
+Microservices 
+1. architectural style
+2. Decomposition of single system into independent running , intercommunicating services.
+3. Alternative to monolithic applications
+4. has both advantages and disadvantages as do monolithic.
+
+
 
 ribbon load balancing: requests among microservice instances  
 Eureka: Naming server : registering microservices  
