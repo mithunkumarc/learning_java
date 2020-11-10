@@ -27,3 +27,14 @@ sleuth : tract request accross different microservices using id, if there is no 
 we cant know which request belong to which logs  
 
 learn : https://www.appsdeveloperblog.com/microservices-and-spring-cloud-tutorials-for-beginners/
+
+
+
+tools / databases : examples
+
+1. search : elastic search
+2. Reivews : mongodb
+3. cart : redis
+4. shipping : sap
+5. customer : relational db
+6. payment : upi/paypal/..
