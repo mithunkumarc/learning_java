@@ -80,6 +80,8 @@ todo
 	https://bezkoder.com/
 	https://github.com/javadevjournal/javadevjournal
 	https://github.com/roytuts/spring-boot
+	https://github.com/darbyluv2code/fullstack-angular-and-springboot  
+	https://github.com/darbyluv2code/spring-and-hibernate-for-beginners
 	
 #### watch
 
