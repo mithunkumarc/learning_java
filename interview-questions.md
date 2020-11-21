@@ -4,3 +4,15 @@ why base class constructor is called
         1. parent class declare all common variables of subclasses, so initialize them use super.
 
         advantage of inheritance : reuse variables/logic
+
+
+
+Mixins/interfaces : 
+
+        mixins are not allowed in java as it doesnot support multiple inheritance.
+        java supports interfaces. interfaces can be used as mixin but implementation is provided by implementing class.
+        the similar thing about mixin and interface is they don't have instance variables, they have only functions.
+        the difference between mixin and interface(java) is , mixin contains method with implementation. but interface don't.
+        purpose of mixn and interface(java is strict: contract) to provide many optional features.
+        syntax of mixin look like inheritance in python.
+        mixin vs class in python. mixin don't contain any instance varaibles but class contain instance variables.
