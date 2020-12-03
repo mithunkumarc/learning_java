@@ -88,6 +88,7 @@ todo
 	https://blogs.oracle.com/javamagazine/
 	https://bezkoder.com/
 	https://github.com/javadevjournal/javadevjournal
+	https://github.com/BruceEckel/OnJava8-Examples
 	
 
 
