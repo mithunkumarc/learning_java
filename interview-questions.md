@@ -18,3 +18,7 @@ Mixins/interfaces :
         mixin vs class in python. mixin don't contain any instance varaibles but class contain instance variables.
         No use of creating instance of mixin as there is not state to modify. ( instantiation of interface not possible)
         object of class impl interface possible, because class has state to modify, it can use interface method todo it.
+
+classloaders : 
+
+        https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/ClassLoader.html
