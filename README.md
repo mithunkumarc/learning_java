@@ -105,3 +105,8 @@ todo
 		-> Concurrency utilities
 		-> volatile
 		-> Java memory model
+		
+#### explore
+
+	https://github.com/Apress
+        https://github.com/PacktPublishing
