@@ -19,7 +19,7 @@ eg :
       LinkedList mockedList = mock(LinkedList.class);   
       // in below line, preparing mock response when a method from mock object is called
       // when get() is called on mocked object, "first" value would be returned.
-      when(mockedList.get(0)).thenReturn("first");      
+      when(mockedList.get(0)).thenReturn("first");      // stub created
       
       
        
