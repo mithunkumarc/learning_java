@@ -28,7 +28,11 @@ reflection :
 
         https://www.oracle.com/technical-resources/articles/java/javareflection.html
         https://stackoverflow.com/questions/37628/what-is-reflection-and-why-is-it-useful
+        https://www.includehelp.com/java/reflection-api-to-change-the-behavior-of-the-class.aspx
         
-        The ability to inspect the code in the system and see object types is not reflection, but rather Type Introspection. 
-        Reflection is then the ability to make modifications at runtime by making use of introspection. 
-        The distinction is necessary here as some languages support introspection, but do not support reflection. One such example is C++.
+        The ability to inspect the code in the system and see object types is not reflection, 
+        but rather Type Introspection. 
+        Reflection is then the ability to make modifications at runtime by 
+        making use of introspection. 
+        The distinction is necessary here as some languages support introspection, 
+        but do not support reflection. One such example is C++.
