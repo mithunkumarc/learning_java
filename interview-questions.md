@@ -16,7 +16,7 @@ Mixins/interfaces :
         purpose of mixn and interface(java is strict: contract) to provide many optional features.
         syntax of mixin look like inheritance in python.
         mixin vs class in python. mixin don't contain any instance varaibles but class contain instance variables.
-        No use of creating instance of mixin as there is not state to modify. ( instantiation of interface not possible)
+        No use of creating instance of mixin as there is not state to modify. ( instantiation of interface not possible in java)
         object of class impl interface possible, because class has state to modify, it can use interface method todo it.
 
 classloaders : 
