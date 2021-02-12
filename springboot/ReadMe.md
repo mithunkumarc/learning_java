@@ -10,3 +10,5 @@ https://github.com/javadevjournal/javadevjournal/tree/master/Spring-Boot
 
 microservices  
 https://github.com/OmarElGabry/microservices-spring-boot
+
+https://www.javaguides.net/
