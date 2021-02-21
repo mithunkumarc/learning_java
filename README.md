@@ -84,6 +84,12 @@ todo
 	https://github.com/darbyluv2code/spring-and-hibernate-for-beginners
 	https://www.javaguides.net/
 	
+	
+#### algorithms 
+
+	https://github.com/TheAlgorithms/Java
+	
+	
 #### watch
 
 	https://blogs.oracle.com/javamagazine/
