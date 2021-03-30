@@ -1,5 +1,10 @@
 spring boot : 2.4.1 : implement  : https://github.com/in28minutes/spring-microservices-v2/tree/main/03.microservices  
 
+spring cloud basics : The Beginner’s Guide To Spring Cloud - Ryan Baxter
+
+      https://www.youtube.com/watch?v=aO3W-lYnw-o
+
+
 Microservices 
 1. architectural style
 2. Decomposition of single system into independent running , intercommunicating services.
