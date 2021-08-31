@@ -6,7 +6,7 @@ https://github.com/darbyluv2code/spring-and-hibernate-for-beginners
 interview questions : https://www.springboottutorial.com/spring-interview-questions
 https://howtodoinjava.com/spring-cloud/
 https://github.com/javadevjournal/javadevjournal/tree/master/Spring-Boot
-
+https://zetcode.com check spring boot. 
 
 microservices  
 https://github.com/in28minutes/course-material/blob/main/01-spring-microservices/v2/downloads.md
