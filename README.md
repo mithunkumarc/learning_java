@@ -83,6 +83,7 @@ todo
 	https://github.com/darbyluv2code/fullstack-angular-and-springboot  
 	https://github.com/darbyluv2code/spring-and-hibernate-for-beginners
 	https://www.javaguides.net/
+	https://knpcode.com/
 	
 	
 #### algorithms 
