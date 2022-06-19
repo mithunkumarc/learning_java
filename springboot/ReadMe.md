@@ -22,3 +22,7 @@ spring cloud basics : The Beginner’s Guide To Spring Cloud - Ryan Baxter
 repositories
 
       https://github.com/bezkoder
+
+crud
+
+      https://github.com/bezkoder/spring-boot-h2-database-crud
