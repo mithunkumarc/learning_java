@@ -7,7 +7,9 @@ todo
 
 	1.kafka-example
 
-#### installing oracle jdk 11
+#### uninstall/install
+
+  		https://linuxhint.com/uninstall-java-ubuntu/
 
 		https://linuxhint.com/install_oracle_jdk11_ubuntu/
 		
