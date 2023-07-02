@@ -12,6 +12,7 @@ todo
   		https://linuxhint.com/uninstall-java-ubuntu/
 
 		https://linuxhint.com/install_oracle_jdk11_ubuntu/
+  		https://www.rosehosting.com/blog/how-to-install-java-17-lts-on-ubuntu-20-04/
 		
 		
 ##### installing openjdk 11
