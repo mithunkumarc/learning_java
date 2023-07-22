@@ -26,3 +26,7 @@ repositories
 crud
 
       https://github.com/bezkoder/spring-boot-h2-database-crud
+
+todo
+
+      webflux : https://www.javaguides.net/2023/01/spring-webflux-reactive-crud-rest-api.html
