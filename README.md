@@ -89,6 +89,7 @@ todo
 	https://knpcode.com/
  	https://github.com/lokeshgupta1981
   	https://github.com/lokeshgupta1981/Spring-Boot3-Demos
+   	https://zetcode.com/all/#java
 	
 	
 #### algorithms 
