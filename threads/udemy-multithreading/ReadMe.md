@@ -12,4 +12,8 @@
 
 #### Context Switch
 
-Replacing executing thread with another thread
+    Replacing executing thread with another thread
+
+#### Multiple threads in a single process share
+
+    Heap, Code, Process's open files, Process's Metadata
