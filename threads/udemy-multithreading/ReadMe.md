@@ -17,3 +17,9 @@
 #### Multiple threads in a single process share
 
     Heap, Code, Process's open files, Process's Metadata
+
+
+#### Thread priority
+
+    OS maintains Dynamic priority 
+    user can assign but ultimately OS decides depends on resources/app priority
