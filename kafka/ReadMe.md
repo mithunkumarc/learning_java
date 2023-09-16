@@ -1,3 +1,7 @@
+#### watch video
+
+        https://www.youtube.com/watch?v=ZJJHm_bd9Zo
+
 #### step 1 : start zookeeper because kafka uses it
 
         kafka : link to download lib and documentation to start kafka
