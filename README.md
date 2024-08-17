@@ -90,6 +90,7 @@ todo
  	https://github.com/lokeshgupta1981
   	https://github.com/lokeshgupta1981/Spring-Boot3-Demos
    	https://zetcode.com/all/#java
+    	https://www.youtube.com/watch?v=ybQAmFsVQqA : maven : multi module and plugins
 	
 	
 #### algorithms 
