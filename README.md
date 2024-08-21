@@ -127,3 +127,4 @@ todo
         https://github.com/PacktPublishing
 	https://github.com/thombergs/code-examples
 	https://www.java4s.com/
+ 	https://docs.oracle.com/en/java/javase/17/index.html
